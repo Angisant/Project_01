@@ -16,7 +16,7 @@ Learn how to set up a basic circuit in Arduino and understand how series and par
 
 ### 🖼️ Illustrations
 <p align="center">
-  <img src="Images/illustration1.png" alt="Arduino Project Illustration" width="600">
+  <img src="Images/illustration.png" alt="Arduino Project Illustration" width="600">
 </p>
 
 ### ⚙️ Circuit Schematics
