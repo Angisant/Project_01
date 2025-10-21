@@ -12,7 +12,7 @@ Learn how to set up a basic circuit in Arduino and understand how series and par
 
 ## 📐 Schematics & Illustrations
 - [View circuit design in Cirkit Designer](https://app.cirkitdesigner.com/project/473058cd-4498-4e97-a3f1-26292083ce17)  
-- [View detailed schematics on CRCit](https://crcit.net/c/4fe34f5cc92d4b41a0c6d96038497459)
+- [View detailed schematics on Circuit Diagram](https://crcit.net/c/4fe34f5cc92d4b41a0c6d96038497459)
 
 ### 🖼️ Illustrations
 <p align="center">
