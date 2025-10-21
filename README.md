@@ -15,7 +15,9 @@ Learn how to set up a basic circuit in Arduino and understand how series and par
 - [View detailed schematics on CRCit](https://crcit.net/c/4fe34f5cc92d4b41a0c6d96038497459)
 
 ### 🖼️ Illustrations
-
+<p align="center">
+  <img src="Images/illustration.png" alt="Arduino Project Illustration" width="600">
+</p>
 
 ### ⚙️ Circuit Schematics
 <p align="center">
